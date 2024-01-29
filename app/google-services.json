@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35358101506",
+    "firebase_url": "https://oti-care-4d11b-default-rtdb.firebaseio.com",
+    "project_id": "oti-care-4d11b",
+    "storage_bucket": "oti-care-4d11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35358101506:android:f9cab608b9fcf2c43d971b",
+        "android_client_info": {
+          "package_name": "com.example.oti_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35358101506-euujdrn523ab1j2akg498193sp9snsdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oti_care",
+            "certificate_hash": "2ccafa17d06519aa834dbf50103cb4794fc9cb52"
+          }
+        },
+        {
+          "client_id": "35358101506-80fear5982ttclqa3upc56dskhp426j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBXoWSfC2_vUE23U0eVYcG-KtycTEPrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35358101506-80fear5982ttclqa3upc56dskhp426j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

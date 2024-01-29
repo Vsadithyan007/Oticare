@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".vocabulary">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-4dp"
+        android:layout_marginBottom="-4dp"
+        android:background="@drawable/bg_6"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/cus"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="24dp"
+                android:background="@drawable/bg_red"
+                android:orientation="vertical"
+                android:paddingLeft="10dp"
+                android:paddingTop="24dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="24dp">
+
+                <EditText
+                    android:id="@+id/ed"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="#30F6A2A2"
+                    android:gravity="center"
+                    android:hint="Enter Your Text"
+                    android:minHeight="48dp"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="20dp" />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Speak"
+                    android:id="@+id/sp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="100dp"
+                    android:layout_marginLeft="100dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/l1"
+                    android:layout_width="153dp"
+                    android:layout_height="133dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/bg_red"
+
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="24dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="24dp">
+
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/hi"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:gravity="center"
+                        android:background="@drawable/hi"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="0dp"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/l2"
+                    android:layout_width="153dp"
+                    android:layout_height="133dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/bg_red"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="24dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="24dp">
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/hw"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/white"
+                        android:gravity="center"
+                        android:background="@drawable/hwig"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/l3"
+                    android:layout_width="153dp"
+                    android:layout_height="133dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/bg_red"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="24dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="24dp">
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/sy"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/sry"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginRight="10dp"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/l4"
+                    android:layout_width="153dp"
+                    android:layout_height="133dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/bg_red"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="24dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="24dp">
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/tk"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/tnk" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/l5"
+                    android:layout_width="153dp"
+                    android:layout_height="133dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="24dp"
+                    android:background="@drawable/bg_red"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="24dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="24dp">
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/mg"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/mng"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/l6"
+                    android:layout_width="153dp"
+                    android:layout_height="133dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="24dp"
+                    android:background="@drawable/bg_red"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="24dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="24dp">
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:id="@+id/whts"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/wtsup" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

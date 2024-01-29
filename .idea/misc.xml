@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/drawable/bg_orange.xml" value="0.2265" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/drawable/bg_red.xml" value="0.2265" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/drawable/bg_yellow.xml" value="0.2265" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/layout/activity_forgot_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/layout/activity_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/layout/activity_log_in.xml" value="0.264" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Adithyan/Oti_care/app/src/main/res/layout/activity_vocabulary.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/bg_log.xml" value="0.2265" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/bg_menu.xml" value="0.2265" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/c_thumb.xml" value="0.1975" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/custom_sbar.xml" value="0.1975" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/hai.xml" value="0.196" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/ic_pause.xml" value="0.1975" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/round_rect.xml" value="0.1975" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/round_rect_bl.xml" value="0.1995" />
+        <entry key="..\:/Oti_care/app/src/main/res/drawable/search.xml" value="0.1995" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_audio_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_emotions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_forgot_pass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_log_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_sup.xml" value="0.264" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/activity_vocabulary.xml" value="0.25" />
+        <entry key="..\:/Oti_care/app/src/main/res/layout/music_adapt.xml" value="0.1875" />
+        <entry key="..\:/Oti_care/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2235" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/drawable/bg_menu.xml" value="0.2265" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.12" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/layout/activity_audio_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/layout/activity_home_page.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/layout/activity_log_in.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Oti_care/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
